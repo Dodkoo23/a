@@ -1,0 +1,4 @@
+﻿  aa.cpp
+C:\Users\domin\OneDrive\Plocha\aa\aa\aa.cpp(31,18): warning C4305: inicializování: zkrácení z: double na: float
+C:\Users\domin\OneDrive\Plocha\aa\aa\aa.cpp(34,13): warning C4305: =: zkrácení z: double na: float
+  aa.vcxproj -> C:\Users\domin\OneDrive\Plocha\aa\x64\Debug\aa.exe
